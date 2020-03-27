@@ -67,7 +67,23 @@ h4 {
   margin-top: 0em;
   color: #A1E7E7;
 }
+h5 {
+  font-family:'Abril Fatface', cursive;
+  font-size: 40px;
+  text-align: center;
+  margin-bottom: 3em;
+  margin-top: 0em;
+  color: #AC6143;
+}
 
+h6{
+  font-family:'Abril Fatface', cursive;
+  font-size: 20px;
+  text-align: center;
+  margin-bottom: 4em;
+  margin-top: 0em;
+  color: #AC6143;
+}
 p {
   font-family: 'Raleway', sans-serif;
   font-size: 14px;
