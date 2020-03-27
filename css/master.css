@@ -2,9 +2,31 @@ body {
   background-color: #33B6B6;
 }
 
+.secondary {
+  background: #E7A88F;
+  text-align: center;
+  }
+
+.secondary img {
+    padding: 0em;
+    margin-bottom: 0em;
+    flex-basis : 30px;
+    flex-shrink: 0;
+    background-color:#E7A88F;
+    max-width: 30%;
+    margin: auto;
+  }
+
+  .project-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+  }
+
 h2 {
   text-align: center;
 }
+
 
 .project-feature-container{
   display: flex;
