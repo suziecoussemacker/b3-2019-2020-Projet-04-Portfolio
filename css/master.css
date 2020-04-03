@@ -16,7 +16,15 @@ body {
     max-width: 30%;
     margin: auto;
   }
+.secondary-2{
+  background: #458C89;
+  text-align: center;
+}
 
+.secondary-3{
+  background: #DDB7E7;
+  text-align: center;
+}
   .project-container {
     display: flex;
     flex-wrap: wrap;
